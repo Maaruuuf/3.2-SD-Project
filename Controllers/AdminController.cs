@@ -115,5 +115,47 @@ namespace QuickBite.Controllers
             return RedirectToAction("fetchCustomer");
         }
 
+        public IActionResult fetchCategory()
+        {
+            return View(_context.tbl_Category.ToList());
+        }
+        public IActionResult addCategory()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult addCategory(Category cat)
+        {
+            _context.tbl_Category.Add(cat);
+            _context.SaveChanges();
+            return RedirectToAction("fetchCategory");
+        }
+
+        public IActionResult updateCategory(int id)
+        {
+            var category = _context.tbl_Category.Find(id);
+            return View(category);
+        }
+        [HttpPost]
+        public IActionResult updateCategory(Category cat)
+        {
+            _context.tbl_Category.Update(cat);
+            _context.SaveChanges();
+            return RedirectToAction("fetchCategory");
+        }
+        public IActionResult deletePermissionCategory(int id)
+        {
+            return View(_context.tbl_Category.FirstOrDefault(c => c.category_id == id));
+        }
+        public IActionResult deleteCategory(int id)
+        {
+            var category = _context.tbl_Category.Find(id);
+            _context.tbl_Category.Remove(category);
+            _context.SaveChanges();
+            return RedirectToAction("fetchCategory");
+        }
+
+
+
     }
 }

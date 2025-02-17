@@ -11,5 +11,6 @@ namespace QuickBite.Models
         public string product_description { get; set; }
         public string product_image { get; set; }
         public int cat_id { get; set; }
+        public Category category { get; set; }
     }
 }

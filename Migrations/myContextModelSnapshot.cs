@@ -212,7 +212,25 @@ namespace QuickBite.Migrations
 
                     b.HasKey("product_id");
 
+                    b.HasIndex("cat_id");
+
                     b.ToTable("tbl_Product");
+                });
+
+            modelBuilder.Entity("QuickBite.Models.Product", b =>
+                {
+                    b.HasOne("QuickBite.Models.Category", "category")
+                        .WithMany("products")
+                        .HasForeignKey("cat_id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("category");
+                });
+
+            modelBuilder.Entity("QuickBite.Models.Category", b =>
+                {
+                    b.Navigation("products");
                 });
 #pragma warning restore 612, 618
         }

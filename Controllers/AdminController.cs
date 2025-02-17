@@ -92,6 +92,21 @@ namespace QuickBite.Controllers
         {
             return View(_context.tbl_Customer.Find(id));
         }
+        [HttpPost]
+        public IActionResult updateCustomer(Customer customer,IFormFile customer_image)
+        {
+            string ImagePath = Path.Combine(_env.WebRootPath, "customer_images",customer_image.FileName);
+            FileStream fs = new FileStream(ImagePath, FileMode.Create);
+            customer_image.CopyTo(fs);
+            customer.Customer_image = customer_image.FileName;
+            _context.tbl_Customer.Update(customer);
+            _context.SaveChanges();
+            return RedirectToAction("fetchCustomer");
+        }
+        public IActionResult deletePermission(int id)
+        {
+            return View(_context.tbl_Customer.FirstOrDefault(c => c.Customer_id == id));
+        }
         public IActionResult deleteCustomer(int id)
         {
             var customer = _context.tbl_Customer.Find(id);

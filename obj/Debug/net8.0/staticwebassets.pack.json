@@ -89,6 +89,14 @@
       "PackagePath": "staticwebassets\\assets\\js\\jquery-1.10.2.js"
     },
     {
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\Dp1.jpg",
+      "PackagePath": "staticwebassets\\customer_images\\Dp1.jpg"
+    },
+    {
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\Dp2.jpg",
+      "PackagePath": "staticwebassets\\customer_images\\Dp2.jpg"
+    },
+    {
       "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

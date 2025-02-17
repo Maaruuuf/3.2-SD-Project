@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JFIMiMBtio9GzLh4oSc1D7EuRWRrbNxpoUkpKt+Z/Ro=",
+  "Hash": "uHtmqZ89Ic5j6aoJ1UjNL9P1y5eHpObGGTw+g4nLPo0=",
   "Source": "QuickBite",
   "BasePath": "_content/QuickBite",
   "Mode": "Default",
@@ -498,6 +498,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Identity": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\Dp1.jpg",
+      "SourceId": "QuickBite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dotnet project\\QuickBite\\wwwroot\\",
+      "BasePath": "_content/QuickBite",
+      "RelativePath": "customer_images/Dp1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qyd0vdsf37",
+      "Integrity": "spl/Mzr/FFM9UHM9AEQQar/UeZHFIU4x2MBWUspj2P8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\customer_images\\Dp1.jpg"
+    },
+    {
+      "Identity": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\Dp2.jpg",
+      "SourceId": "QuickBite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dotnet project\\QuickBite\\wwwroot\\",
+      "BasePath": "_content/QuickBite",
+      "RelativePath": "customer_images/Dp2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ve8abdyli4",
+      "Integrity": "6RenTxpiziONfHvL+shg5hT2TATusQHgKwW8gQjvVaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\customer_images\\Dp2.jpg"
     },
     {
       "Identity": "D:\\Dotnet project\\QuickBite\\wwwroot\\favicon.ico",
@@ -3438,6 +3480,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-VrgFJr6kxDzPPH/7X3KmUgTsUzUSiUCVAGqOXzDUtUI="
+        }
+      ]
+    },
+    {
+      "Route": "customer_images/Dp1.jpg",
+      "AssetFile": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\Dp1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1222296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"spl/Mzr/FFM9UHM9AEQQar/UeZHFIU4x2MBWUspj2P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 17:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-spl/Mzr/FFM9UHM9AEQQar/UeZHFIU4x2MBWUspj2P8="
+        }
+      ]
+    },
+    {
+      "Route": "customer_images/Dp1.qyd0vdsf37.jpg",
+      "AssetFile": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\Dp1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1222296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"spl/Mzr/FFM9UHM9AEQQar/UeZHFIU4x2MBWUspj2P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 17:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qyd0vdsf37"
+        },
+        {
+          "Name": "label",
+          "Value": "customer_images/Dp1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-spl/Mzr/FFM9UHM9AEQQar/UeZHFIU4x2MBWUspj2P8="
+        }
+      ]
+    },
+    {
+      "Route": "customer_images/Dp2.jpg",
+      "AssetFile": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\Dp2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "269008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6RenTxpiziONfHvL+shg5hT2TATusQHgKwW8gQjvVaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 17:51:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6RenTxpiziONfHvL+shg5hT2TATusQHgKwW8gQjvVaY="
+        }
+      ]
+    },
+    {
+      "Route": "customer_images/Dp2.ve8abdyli4.jpg",
+      "AssetFile": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\Dp2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "269008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6RenTxpiziONfHvL+shg5hT2TATusQHgKwW8gQjvVaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 17:51:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ve8abdyli4"
+        },
+        {
+          "Name": "label",
+          "Value": "customer_images/Dp2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6RenTxpiziONfHvL+shg5hT2TATusQHgKwW8gQjvVaY="
         }
       ]
     },

@@ -175,3 +175,4 @@ D:\Dotnet project\QuickBite\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstra
 D:\Dotnet project\QuickBite\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 D:\Dotnet project\QuickBite\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 D:\Dotnet project\QuickBite\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Dotnet project\QuickBite\obj\Debug\net8.0\QuickBite.sourcelink.json

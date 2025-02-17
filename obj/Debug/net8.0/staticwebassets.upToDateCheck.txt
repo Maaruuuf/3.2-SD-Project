@@ -19,6 +19,8 @@ wwwroot\assets\fonts\glyphicons-halflings-regulard41d.eot
 wwwroot\assets\js\bootstrap.min.js
 wwwroot\assets\js\custom.js
 wwwroot\assets\js\jquery-1.10.2.js
+wwwroot\customer_images\Dp1.jpg
+wwwroot\customer_images\Dp2.jpg
 wwwroot\favicon.ico
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

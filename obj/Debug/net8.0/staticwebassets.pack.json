@@ -329,6 +329,18 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image1.jpg",
+      "PackagePath": "staticwebassets\\product_images\\menu-image1.jpg"
+    },
+    {
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image2.jpg",
+      "PackagePath": "staticwebassets\\product_images\\menu-image2.jpg"
+    },
+    {
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image3.jpg",
+      "PackagePath": "staticwebassets\\product_images\\menu-image3.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QuickBite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uHtmqZ89Ic5j6aoJ1UjNL9P1y5eHpObGGTw+g4nLPo0=",
+  "Hash": "6orT3UZpaKwWFcPnAW3sKXvOVPV9QU0dWOOcwWg6A9A=",
   "Source": "QuickBite",
   "BasePath": "_content/QuickBite",
   "Mode": "Default",
@@ -1758,6 +1758,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image1.jpg",
+      "SourceId": "QuickBite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dotnet project\\QuickBite\\wwwroot\\",
+      "BasePath": "_content/QuickBite",
+      "RelativePath": "product_images/menu-image1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fa598pmeds",
+      "Integrity": "+ZBC989zMnXqdjen77OpMaP9VZ4H26wO0chsF8AjU6g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\product_images\\menu-image1.jpg"
+    },
+    {
+      "Identity": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image2.jpg",
+      "SourceId": "QuickBite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dotnet project\\QuickBite\\wwwroot\\",
+      "BasePath": "_content/QuickBite",
+      "RelativePath": "product_images/menu-image2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wmv5nvy0sd",
+      "Integrity": "mF00sqjV0FnlkSH+hSABvYnCgd5Tp2uEYi5FIXj6w/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\product_images\\menu-image2.jpg"
+    },
+    {
+      "Identity": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image3.jpg",
+      "SourceId": "QuickBite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dotnet project\\QuickBite\\wwwroot\\",
+      "BasePath": "_content/QuickBite",
+      "RelativePath": "product_images/menu-image3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uqfsq4ybc8",
+      "Integrity": "tghyawzxuQBp/+na3pVWqvKBliBPXLknhtmzyVK1dTs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\product_images\\menu-image3.jpg"
     }
   ],
   "Endpoints": [
@@ -8400,6 +8463,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "product_images/menu-image1.fa598pmeds.jpg",
+      "AssetFile": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ZBC989zMnXqdjen77OpMaP9VZ4H26wO0chsF8AjU6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 17:40:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fa598pmeds"
+        },
+        {
+          "Name": "label",
+          "Value": "product_images/menu-image1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ZBC989zMnXqdjen77OpMaP9VZ4H26wO0chsF8AjU6g="
+        }
+      ]
+    },
+    {
+      "Route": "product_images/menu-image1.jpg",
+      "AssetFile": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ZBC989zMnXqdjen77OpMaP9VZ4H26wO0chsF8AjU6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 17:40:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ZBC989zMnXqdjen77OpMaP9VZ4H26wO0chsF8AjU6g="
+        }
+      ]
+    },
+    {
+      "Route": "product_images/menu-image2.jpg",
+      "AssetFile": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mF00sqjV0FnlkSH+hSABvYnCgd5Tp2uEYi5FIXj6w/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 18:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mF00sqjV0FnlkSH+hSABvYnCgd5Tp2uEYi5FIXj6w/I="
+        }
+      ]
+    },
+    {
+      "Route": "product_images/menu-image2.wmv5nvy0sd.jpg",
+      "AssetFile": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mF00sqjV0FnlkSH+hSABvYnCgd5Tp2uEYi5FIXj6w/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 18:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wmv5nvy0sd"
+        },
+        {
+          "Name": "label",
+          "Value": "product_images/menu-image2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mF00sqjV0FnlkSH+hSABvYnCgd5Tp2uEYi5FIXj6w/I="
+        }
+      ]
+    },
+    {
+      "Route": "product_images/menu-image3.jpg",
+      "AssetFile": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tghyawzxuQBp/+na3pVWqvKBliBPXLknhtmzyVK1dTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 18:21:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tghyawzxuQBp/+na3pVWqvKBliBPXLknhtmzyVK1dTs="
+        }
+      ]
+    },
+    {
+      "Route": "product_images/menu-image3.uqfsq4ybc8.jpg",
+      "AssetFile": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tghyawzxuQBp/+na3pVWqvKBliBPXLknhtmzyVK1dTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 18:21:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uqfsq4ybc8"
+        },
+        {
+          "Name": "label",
+          "Value": "product_images/menu-image3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tghyawzxuQBp/+na3pVWqvKBliBPXLknhtmzyVK1dTs="
         }
       ]
     },

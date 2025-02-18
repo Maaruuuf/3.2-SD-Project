@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\Dotnet project\\QuickBite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\admin\\categorydropdown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\admin\\categorydropdown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\admin\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\admin\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\admin\\updatecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\admin\\updatecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\admin\\deletepermissioncategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\admin\\deletepermissioncategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\admin\\fetchcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\admin\\fetchcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\Profile.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Profile.cshtml",
-              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\Profile.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Profile.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CategoryDropdown.cshtml",
+              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\CategoryDropdown.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\CategoryDropdown.cshtml",
+              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\CategoryDropdown.cshtml",
+              "RelativeToolTip": "Views\\Admin\\CategoryDropdown.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T20:23:48.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "deletePermissionCategory.cshtml",
-              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\deletePermissionCategory.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\deletePermissionCategory.cshtml",
-              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\deletePermissionCategory.cshtml",
-              "RelativeToolTip": "Views\\Admin\\deletePermissionCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T20:12:06.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "updateCategory.cshtml",
-              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\updateCategory.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\updateCategory.cshtml",
-              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\updateCategory.cshtml",
-              "RelativeToolTip": "Views\\Admin\\updateCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T20:08:18.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "addCategory.cshtml",
-              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\addCategory.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\addCategory.cshtml",
-              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\addCategory.cshtml",
-              "RelativeToolTip": "Views\\Admin\\addCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T19:36:55.534Z",
+              "WhenOpened": "2025-02-18T18:58:15.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "addProduct.cshtml",
+              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\addProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\addProduct.cshtml",
+              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\addProduct.cshtml",
+              "RelativeToolTip": "Views\\Admin\\addProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T18:57:36.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "updateProduct.cshtml",
+              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\updateProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\updateProduct.cshtml",
+              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\updateProduct.cshtml",
+              "RelativeToolTip": "Views\\Admin\\updateProduct.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T17:53:57.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
               "ToolTip": "D:\\Dotnet project\\QuickBite\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAuwI8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAcwMwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T19:26:32.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Dashboard.cshtml",
-              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Shared\\_Dashboard.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Dashboard.cshtml",
-              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Shared\\_Dashboard.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Dashboard.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T19:44:33.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "fetchCategory.cshtml",
-              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\fetchCategory.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\fetchCategory.cshtml",
-              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\fetchCategory.cshtml",
-              "RelativeToolTip": "Views\\Admin\\fetchCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T19:29:59.27Z",
+              "WhenOpened": "2025-02-18T16:34:58.706Z",
               "EditorCaption": ""
             }
           ]

@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\Dotnet project\\QuickBite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\admin\\categorydropdown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\admin\\categorydropdown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\admin\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\admin\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|d:\\dotnet project\\quickbite\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07FE621-F477-4D3D-A3AC-156D72E600A7}|QuickBite.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryDropdown.cshtml",
-              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\CategoryDropdown.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\CategoryDropdown.cshtml",
-              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\CategoryDropdown.cshtml",
-              "RelativeToolTip": "Views\\Admin\\CategoryDropdown.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T18:58:15.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "addProduct.cshtml",
-              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\addProduct.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\addProduct.cshtml",
-              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\addProduct.cshtml",
-              "RelativeToolTip": "Views\\Admin\\addProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T18:57:36.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "updateProduct.cshtml",
-              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\updateProduct.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\updateProduct.cshtml",
-              "ToolTip": "D:\\Dotnet project\\QuickBite\\Views\\Admin\\updateProduct.cshtml",
-              "RelativeToolTip": "Views\\Admin\\updateProduct.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T17:53:57.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\Dotnet project\\QuickBite\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "D:\\Dotnet project\\QuickBite\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAcwMwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:34:58.706Z",
+              "WhenOpened": "2025-02-19T12:01:56.776Z",
               "EditorCaption": ""
             }
           ]

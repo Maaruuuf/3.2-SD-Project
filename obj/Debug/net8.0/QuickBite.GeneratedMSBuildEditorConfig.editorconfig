@@ -96,12 +96,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlUHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dotnet project/QuickBite/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/Dotnet project/QuickBite/Views/Customer/fetchCategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcZmV0Y2hDYXRlZ29yeUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dotnet project/QuickBite/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/Dotnet project/QuickBite/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Dotnet project/QuickBite/Views/Shared/Error.cshtml]

@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Admin Dashboard</title>
     <!-- BOOTSTRAP STYLES-->
-    <link href="~/assets/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/assetss/css/bootstrap.css" rel="stylesheet" />
     <!-- FONTAWESOME STYLES-->
-    <link href="~/assets/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/assetss/css/font-awesome.css" rel="stylesheet" />
     <!-- CUSTOM STYLES-->
-    <link href="~/assets/css/custom.css" rel="stylesheet" />
+    <link href="~/assetss/css/custom.css" rel="stylesheet" />
     <!-- GOOGLE FONTS-->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
 </head>
@@ -46,8 +46,8 @@
                     <li><a href="@Url.Action("fetchCustomer","Admin")"><i class="fa fa-users"></i> Customers</a></li>
                     <li><a href="@Url.Action("fetchCategory","Admin")"><i class="fa fa-list"></i> Categories</a></li>
                     <li><a href="@Url.Action("fetchProduct","Admin")"><i class="fa fa-cutlery"></i> Products</a></li>
-                    <li><a href="cart.html"><i class="fa fa-shopping-cart"></i> Cart</a></li>
-                    <li><a href="orders.html"><i class="fa fa-truck"></i> Orders</a></li>
+                    <li><a href="@Url.Action("Cart","Admin")"><i class="fa fa-shopping-cart"></i> Cart</a></li>
+                    <li><a href="@Url.Action("Orders","Admin")"><i class="fa fa-truck"></i> Orders</a></li>
                 </ul>
             </div>
         </nav>
@@ -76,11 +76,11 @@
     <!-- /. WRAPPER  -->
     <!-- SCRIPTS - AT THE BOTTOM TO REDUCE LOAD TIME -->
     <!-- JQUERY SCRIPTS -->
-    <script src="~/assets/js/jquery-1.10.2.js"></script>
+    <script src="~/assetss/js/jquery-1.10.2.js"></script>
     <!-- BOOTSTRAP SCRIPTS -->
-    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="~/assetss/js/bootstrap.min.js"></script>
     <!-- CUSTOM SCRIPTS -->
-    <script src="~/assets/js/custom.js"></script>
+    <script src="~/assetss/js/custom.js"></script>
 
     
 </body>

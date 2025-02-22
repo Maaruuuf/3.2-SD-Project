@@ -5907,6 +5907,88 @@
       ]
     },
     {
+      "Route": "assets/images/QuickBite/bg-2.jpg",
+      "AssetFile": "assets/images/QuickBite/bg-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JPqtmOYb1CL8CVTyQn3wzEBmZE6tXHwkvHhNMw/WwJ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 19:30:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JPqtmOYb1CL8CVTyQn3wzEBmZE6tXHwkvHhNMw/WwJ0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/QuickBite/bg-2.opglew7cz4.jpg",
+      "AssetFile": "assets/images/QuickBite/bg-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JPqtmOYb1CL8CVTyQn3wzEBmZE6tXHwkvHhNMw/WwJ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 19:30:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opglew7cz4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JPqtmOYb1CL8CVTyQn3wzEBmZE6tXHwkvHhNMw/WwJ0="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/QuickBite/bg-2.jpg"
+        }
+      ]
+    },
+    {
       "Route": "assets/images/QuickBite/fav.hnnkrt5rhc.ico",
       "AssetFile": "assets/images/QuickBite/fav.ico",
       "Selectors": [],

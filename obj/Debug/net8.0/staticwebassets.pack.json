@@ -289,6 +289,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\View\\m4.jpg"
     },
     {
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\bg-2.jpg"
+    },
+    {
       "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\fav.ico",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\fav.ico"
     },

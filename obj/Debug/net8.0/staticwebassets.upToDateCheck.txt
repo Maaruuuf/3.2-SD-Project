@@ -62,6 +62,7 @@ wwwroot\assets\fonts\molla0ab2.svg
 wwwroot\assets\fonts\molla0ab2.ttf
 wwwroot\assets\fonts\molla0ab2.woff
 wwwroot\assets\fonts\molla0ab2.woff2
+wwwroot\assets\images\QuickBite\bg-2.jpg
 wwwroot\assets\images\QuickBite\fav.ico
 wwwroot\assets\images\QuickBite\favicon.png
 wwwroot\assets\images\QuickBite\logo.png

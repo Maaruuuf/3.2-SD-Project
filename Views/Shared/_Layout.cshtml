@@ -31,6 +31,7 @@
     
 <body>
 
+    
 
     <div class="page-wrapper">
         <div class="wrap-container">
@@ -47,7 +48,15 @@
                                 <li>
                                     <a href="#">Links</a>
                                     <ul>
-                                        <li><a href="@Url.Action("login","customer")">Sign in / Sign up</a></li>
+                                        @if(string.IsNullOrEmpty(ViewBag.checkSession))
+                                        {
+                                            <li><a href="@Url.Action("customerLogin","customer")">Sign in / Sign up</a></li>
+                                        }
+                                        else
+                                        {
+                                            <li><a href="@Url.Action("customerLogout","customer")">Logout</a></li>
+                                        }
+
                                     </ul>
                                 </li>
                             </ul><!-- End .top-menu -->
@@ -128,7 +137,7 @@
 
                                                 <figure class="product-image-container">
                                                     <a href="product.html" class="product-image">
-                                                        <img src="assets/images/QuickBite/products/product-1.png" alt="product">
+                                                        <img src="assets/images/QuickBite/products/p1.png" alt="product">
                                                     </a>
                                                 </figure>
                                                 <a href="#" class="btn-remove" title="Remove Product"><i class="icon-close"></i></a>
@@ -148,7 +157,7 @@
 
                                                 <figure class="product-image-container">
                                                     <a href="product.html" class="product-image">
-                                                        <img src="assets/images/QuickBite/products/product-2.png" alt="product">
+                                                        <img src="assets/images/QuickBite/products/p2.png" alt="product">
                                                     </a>
                                                 </figure>
                                                 <a href="#" class="btn-remove" title="Remove Product"><i class="icon-close"></i></a>

@@ -58,5 +58,23 @@ namespace QuickBite.Controllers
             HttpContext.Session.Remove("customerSession");
             return RedirectToAction("Index");
         }
+        public IActionResult customerProfile()
+        {
+            if (string.IsNullOrEmpty(HttpContext.Session.GetString("customerSession")))
+            {
+                return RedirectToAction("customerLogin");
+            }
+            else
+            {
+                List<Category> category = _context.tbl_Category.ToList();
+                ViewData["category"] = category;
+                var customerId = HttpContext.Session.GetString("customerSession");
+                var row = _context.tbl_Customer.Where(c => c.Customer_id == int.Parse(customerId)).ToList();
+                return View(row);
+
+            }
+        }
+
+
     }
 }

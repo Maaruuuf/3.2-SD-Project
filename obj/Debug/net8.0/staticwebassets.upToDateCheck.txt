@@ -145,8 +145,11 @@ wwwroot\assetss\fonts\glyphicons-halflings-regulard41d.eot
 wwwroot\assetss\js\bootstrap.min.js
 wwwroot\assetss\js\custom.js
 wwwroot\assetss\js\jquery-1.10.2.js
+wwwroot\customer_images\6206022392199892939.jpg
+wwwroot\customer_images\download.jpg
 wwwroot\customer_images\Dp1.jpg
 wwwroot\customer_images\Dp2.jpg
+wwwroot\customer_images\Screenshot 2025-03-03 111203.png
 wwwroot\favicon.ico
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -205,9 +208,15 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\product_images\176b53ef-e721-4005-b26a-5a264a7e0eaf.jpg
 wwwroot\product_images\burger.jpg
 wwwroot\product_images\cbiri.jpg
 wwwroot\product_images\f1.png
+wwwroot\product_images\f3.png
 wwwroot\product_images\menu-image1.jpg
 wwwroot\product_images\menu-image2.jpg
 wwwroot\product_images\menu-image3.jpg
+wwwroot\product_images\p2.png
+wwwroot\product_images\p3.png
+wwwroot\product_images\p4.png
+wwwroot\product_images\p5.jpg

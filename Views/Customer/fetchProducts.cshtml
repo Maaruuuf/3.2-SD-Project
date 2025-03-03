@@ -1,0 +1,35 @@
+﻿@model List<Product>
+@foreach (var pro in Model)
+{
+    <div class="product" style="width:200px">
+        <figure class="product-media" style="height:300px">
+            <span class="product-label label-new">New</span>
+            <a href="@Url.Action("productDetails","Customer",new{id=pro.product_id})">
+                <img src="@("~/Product_images/"+pro.product_image)" alt="Product image"
+                class="product-image" asp-append-version="true" style="height:300px; object-fit:contain">
+            </a>
+
+            <div class="product-action-vertical">
+                <a href="#" class="btn-product-icon btn-wishlist" title="Add to Wishlist"><span>add to wishlist</span></a>
+            </div><!-- End .product-action-vertical -->
+
+            
+
+            <div class="product-action">
+                <a href="#" class="btn-product btn-cart"><span>add to cart</span></a>
+            </div><!-- End .product-action -->
+        </figure><!-- End .product-media -->
+
+        <div class="product-body">
+            <h3 class="product-title">
+                <a href="@Url.Action("productDetails","Customer",new{id=pro.product_id})">
+                    @pro.product_name
+                </a></h3><!-- End .product-title -->
+            <div class="product-price">
+                @pro.product_price
+            </div><!-- End .product-price -->
+        </div><!-- End .product-body -->
+    </div>
+
+    <!-- End .product -->
+}

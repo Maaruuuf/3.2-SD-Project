@@ -52,10 +52,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZGVsZXRlUGVybWlzc2lvbkNhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Sd_project/3.2-SD-Project/Views/Admin/deletePermissionFeedback.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZGVsZXRlUGVybWlzc2lvbkZlZWRiYWNrLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/Sd_project/3.2-SD-Project/Views/Admin/deletePermissionProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZGVsZXRlUGVybWlzc2lvblByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -66,10 +62,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/Sd_project/3.2-SD-Project/Views/Admin/fetchCustomer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmV0Y2hDdXN0b21lci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/Sd_project/3.2-SD-Project/Views/Admin/fetchFeedback.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmV0Y2hGZWVkYmFjay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Sd_project/3.2-SD-Project/Views/Admin/fetchProduct.cshtml]
@@ -108,36 +100,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcY3VzdG9tZXJMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Sd_project/3.2-SD-Project/Views/Customer/customerProfile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcY3VzdG9tZXJQcm9maWxlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/Sd_project/3.2-SD-Project/Views/Customer/customerRegistration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcY3VzdG9tZXJSZWdpc3RyYXRpb24uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/Sd_project/3.2-SD-Project/Views/Customer/feedback.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcZmVlZGJhY2suY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/Sd_project/3.2-SD-Project/Views/Customer/fetchAllProducts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcZmV0Y2hBbGxQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Sd_project/3.2-SD-Project/Views/Customer/fetchCategoryList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcZmV0Y2hDYXRlZ29yeUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Sd_project/3.2-SD-Project/Views/Customer/fetchProducts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcZmV0Y2hQcm9kdWN0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/Sd_project/3.2-SD-Project/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/Sd_project/3.2-SD-Project/Views/Customer/productDetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJccHJvZHVjdERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Sd_project/3.2-SD-Project/Views/Shared/Error.cshtml]

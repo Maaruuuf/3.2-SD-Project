@@ -156,7 +156,7 @@ namespace QuickBite.Controllers
         }
 
         public IActionResult fetchProduct()
-        {
+        {  
             return View(_context.tbl_Product.ToList());
         }
 
@@ -223,6 +223,24 @@ namespace QuickBite.Controllers
             _context.tbl_Product.Update(product);
             _context.SaveChanges();
             return RedirectToAction("fetchProduct");
+        }
+
+        public IActionResult fetchFeedback()
+        {
+
+            return View(_context.tbl_Feedback.ToList());
+        }
+
+        public IActionResult deletePermissionFeedback(int id)
+        {
+            return View(_context.tbl_Feedback.FirstOrDefault(f => f.feedback_id == id));
+        }
+       public IActionResult deleteFeedback(int id)
+        {
+            var feedback = _context.tbl_Feedback.Find(id);
+            _context.tbl_Feedback.Remove(feedback);
+            _context.SaveChanges();
+            return RedirectToAction("fetchFeedback");
         }
     }
 }

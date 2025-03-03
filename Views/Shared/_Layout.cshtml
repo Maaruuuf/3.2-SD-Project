@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="~/assets/css/style.css">
     <link rel="stylesheet" href="~/assets/css/skins/skin-demo-19.css">
     <link rel="stylesheet" href="~/assets/css/demos/demo-19.css">
+    
 </head>
 
 
@@ -73,7 +74,7 @@
                                 <i class="icon-bars"></i>
                             </button>
 
-                            <a href="index.html" class="logo">
+                            <a href="@Url.Action("Index","customer")" class="logo">
                                 <img src="~/assets/images/QuickBite/logo.png" alt="QuickBite Logo" width="150" height="100">
                             </a>
                         </div><!-- End .header-left -->
@@ -103,7 +104,7 @@
                                 </div><!-- End .compare-dropdown -->
 
                                 <div class="wishlist">
-                                    <a href="wishlist.html" title="Wishlist">
+                                    <a href="#" title="Wishlist">
                                         <div class="icon">
                                             <i class="icon-heart-o"></i>
                                             <span class="wishlist-count badge">3</span>
@@ -188,13 +189,10 @@
                             <nav class="main-nav">
                                 <ul class="menu">
                                     <li class="megamenu-container">
-                                        <a href="index.html" class="sf-with-ul">Home</a>
+                                        <a href="@Url.Action("Index","customer")" class="sf-with-ul">Home</a>
                                     </li>
                                     <li>
-                                        <a href="product.html" class="sf-with-ul">About Us</a>
-                                    </li>
-                                    <li>
-                                        <a href="product.html" class="sf-with-ul">Product</a>
+                                        <a href="@Url.Action("fetchAllProducts","Customer")" class="sf-with-ul">Product</a>
                                     </li>
                                     <li>
                                         <a href="#" class="sf-with-ul">Category</a>

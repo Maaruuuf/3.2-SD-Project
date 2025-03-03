@@ -81,6 +81,7 @@ wwwroot\assets\images\QuickBite\View\bg4.jpg
 wwwroot\assets\images\QuickBite\View\m1.jpg
 wwwroot\assets\images\QuickBite\View\m2.jpg
 wwwroot\assets\images\QuickBite\View\m4.jpg
+wwwroot\assets\images\QuickBite\View\s4.jpg
 wwwroot\assets\js\bootstrap.bundle.min.js
 wwwroot\assets\js\bootstrap-input-spinner.js
 wwwroot\assets\js\demos\demo-10.js

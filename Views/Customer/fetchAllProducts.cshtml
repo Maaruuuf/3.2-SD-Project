@@ -9,5 +9,12 @@
     <div class="allproduct mt-3 d-flex justify-content-center flex-wrap">
         @Html.Partial("fetchProducts", ViewData["product"])
     </div>
+
+    @if(TempData["message"]!=null)
+    {
+        <h4 class="text-success">@TempData["message"]</h4>
+    }
+
+
 </div>
 

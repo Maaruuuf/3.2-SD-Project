@@ -242,5 +242,21 @@ namespace QuickBite.Controllers
             _context.SaveChanges();
             return RedirectToAction("fetchFeedback");
         }
+        public IActionResult fetchCart()
+        {
+            var cart = _context.tbl_Cart.Include(c => c.products).Include(c => c.customers).ToList();
+            return View(cart);
+        }
+        public IActionResult deletePermissionCart(int id)
+        {
+            return View(_context.tbl_Cart.FirstOrDefault(c => c.cart_id == id));
+        }
+        public IActionResult deleteCart(int id)
+        {
+            var cart = _context.tbl_Cart.Find(id);
+            _context.tbl_Cart.Remove(cart);
+            _context.SaveChanges();
+            return RedirectToAction("fetchCart");
+        }
     }
 }

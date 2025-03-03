@@ -20,11 +20,11 @@
                 @foreach (var cart in Model)
                 {
                     <tr>
-                        
-                        <td>@cart.cart_id</td>
+
                         <td>@cart.products.product_name</td>
+                        <td>@cart.customers.Customer_name</td>
                         <td>@cart.product_quantity</td>
-                        <td>@cart.products.product_price</td>
+                        <td>@cart.cart_status</td>
 
                         <td>
                             

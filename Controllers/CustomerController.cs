@@ -1,5 +1,6 @@
 ﻿using System.Drawing;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using QuickBite.Models;
 
 namespace QuickBite.Controllers
@@ -153,9 +154,33 @@ namespace QuickBite.Controllers
 
             }
         }
-        
 
+        public IActionResult fetchCart()
+        {
+            List<Category> category = _context.tbl_Category.ToList();
+            ViewData["category"] = category;
 
+            string customerId = HttpContext.Session.GetString("customerSession");
+
+            if (customerId != null)
+            {
+                var cart = _context.tbl_Cart.Where(c => c.cust_id == int.Parse(customerId)).Include(c => c.products).ToList();
+
+                return View(cart);
+            }
+            else
+            {
+                return RedirectToAction("customerLogin");
+            }
+        }
+
+        public IActionResult removeProduct(int id)
+        {
+            var product = _context.tbl_Cart.Find(id);
+            _context.tbl_Cart.Remove(product);
+            _context.SaveChanges();
+            return RedirectToAction("fetchCart");
+        }
 
 
 

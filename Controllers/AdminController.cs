@@ -258,5 +258,18 @@ namespace QuickBite.Controllers
             _context.SaveChanges();
             return RedirectToAction("fetchCart");
         }
+        public IActionResult updateCart(int id)
+        {
+            var cart = _context.tbl_Cart.Find(id);
+            return View(cart);
+        }
+        [HttpPost]
+        public IActionResult updateCart(int cart_status,Cart cart)
+        {
+            cart.cart_status = cart_status;
+            _context.tbl_Cart.Update(cart);
+            _context.SaveChanges();
+            return RedirectToAction("fetchCart");
+        }
     }
 }

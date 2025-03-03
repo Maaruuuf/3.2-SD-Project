@@ -1,895 +1,899 @@
 {
   "Files": [
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuickBite.bundle.scp.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuickBite.bundle.scp.css",
       "PackagePath": "staticwebassets\\QuickBite.rhvr99hbsd.bundle.scp.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\admin_image\\Dp1.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\admin_image\\Dp1.jpg",
       "PackagePath": "staticwebassets\\admin_image\\Dp1.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\admin_image\\about-img.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\admin_image\\about-img.png",
       "PackagePath": "staticwebassets\\admin_image\\about-img.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\admin_image\\logo.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\admin_image\\logo.png",
       "PackagePath": "staticwebassets\\admin_image\\logo.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\admin_image\\s.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\admin_image\\s.png",
       "PackagePath": "staticwebassets\\admin_image\\s.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-10.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-10.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-10.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-11.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-11.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-11.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-12.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-12.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-12.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-13.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-13.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-13.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-14.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-14.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-14.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-15.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-15.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-15.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-16.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-16.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-16.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-17.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-17.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-17.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-18.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-18.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-18.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-19.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-19.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-19.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-2.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-2.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-2.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-20.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-20.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-20.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-21.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-21.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-21.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-22.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-22.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-22.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-23.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-23.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-23.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-24.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-24.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-24.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-3.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-3.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-3.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-4.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-4.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-4.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-5.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-5.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-5.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-6.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-6.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-6.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-7.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-7.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-7.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-8.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-8.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-8.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\demos\\demo-9.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\demos\\demo-9.css",
       "PackagePath": "staticwebassets\\assets\\css\\demos\\demo-9.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\main.min.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\main.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\main.min.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\plugins\\jquery.countdown.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\plugins\\jquery.countdown.css",
       "PackagePath": "staticwebassets\\assets\\css\\plugins\\jquery.countdown.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\plugins\\magnific-popup\\magnific-popup.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\plugins\\magnific-popup\\magnific-popup.css",
       "PackagePath": "staticwebassets\\assets\\css\\plugins\\magnific-popup\\magnific-popup.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\plugins\\nouislider\\nouislider.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\plugins\\nouislider\\nouislider.css",
       "PackagePath": "staticwebassets\\assets\\css\\plugins\\nouislider\\nouislider.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\plugins\\owl-carousel\\owl.carousel.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\plugins\\owl-carousel\\owl.carousel.css",
       "PackagePath": "staticwebassets\\assets\\css\\plugins\\owl-carousel\\owl.carousel.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-10.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-10.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-10.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-13.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-13.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-13.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-14.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-14.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-14.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-17.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-17.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-17.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-19.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-19.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-19.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-2.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-2.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-2.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-20.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-20.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-20.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-21.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-21.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-21.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-22.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-22.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-22.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-23.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-23.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-23.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-24.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-24.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-24.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-3.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-3.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-3.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-4.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-4.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-4.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-5.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-5.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-5.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-6.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-6.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-6.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-7.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-7.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-7.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-8.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-8.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-8.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\skins\\skin-demo-9.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\skins\\skin-demo-9.css",
       "PackagePath": "staticwebassets\\assets\\css\\skins\\skin-demo-9.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\css\\style.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\flaming\\flaming-webfont.woff",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\flaming\\flaming-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\flaming\\flaming-webfont.woff"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\flaming\\flaming-webfont.woff2",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\flaming\\flaming-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\flaming\\flaming-webfont.woff2"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\icon51c1.eot",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\icon51c1.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\icon51c1.eot"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\icon51c1.svg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\icon51c1.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\icon51c1.svg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\icon51c1.ttf",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\icon51c1.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\icon51c1.ttf"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\icon51c1.woff",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\icon51c1.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\icon51c1.woff"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\icon51c1.woff2",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\icon51c1.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\icon51c1.woff2"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\molla0ab2.eot",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\molla0ab2.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\molla0ab2.eot"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\molla0ab2.svg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\molla0ab2.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\molla0ab2.svg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\molla0ab2.ttf",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\molla0ab2.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\molla0ab2.ttf"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\molla0ab2.woff",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\molla0ab2.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\molla0ab2.woff"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\fonts\\molla0ab2.woff2",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\fonts\\molla0ab2.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\molla0ab2.woff2"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\View\\b2.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\View\\b2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\View\\b2.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\View\\bg1.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\View\\bg1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\View\\bg1.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\View\\bg2.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\View\\bg2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\View\\bg2.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\View\\bg4.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\View\\bg4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\View\\bg4.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\View\\m1.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\View\\m1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\View\\m1.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\View\\m2.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\View\\m2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\View\\m2.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\View\\m4.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\View\\m4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\View\\m4.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\bg-2.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\View\\s4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\View\\s4.jpg"
+    },
+    {
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\bg-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\bg-2.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\fav.ico",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\fav.ico",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\fav.ico"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\favicon.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\favicon.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\logo.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\logo.png",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\logo.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\payments.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\payments.png",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\payments.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\products\\176b53ef-e721-4005-b26a-5a264a7e0eaf.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\products\\176b53ef-e721-4005-b26a-5a264a7e0eaf.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\products\\176b53ef-e721-4005-b26a-5a264a7e0eaf.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\products\\f3.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\products\\f3.png",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\products\\f3.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\products\\p1.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\products\\p1.png",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\products\\p1.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\products\\p2.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\products\\p2.png",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\products\\p2.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\products\\p3.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\products\\p3.png",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\products\\p3.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\products\\p4.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\products\\p4.png",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\products\\p4.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\images\\QuickBite\\products\\p5.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\images\\QuickBite\\products\\p5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\QuickBite\\products\\p5.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\bootstrap-input-spinner.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\bootstrap-input-spinner.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap-input-spinner.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-10.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-10.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-10.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-11.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-11.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-11.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-12.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-12.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-12.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-13.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-13.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-13.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-14.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-14.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-14.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-15.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-15.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-15.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-16.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-16.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-16.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-17.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-17.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-17.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-18.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-18.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-18.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-19.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-19.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-19.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-2.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-2.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-2.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-20.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-20.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-20.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-21.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-21.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-21.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-24.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-24.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-24.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-3.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-3.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-3.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-4.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-4.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-4.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-5.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-5.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-5.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-6.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-6.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-6.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-7.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-7.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-7.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-8.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-8.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-8.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\demos\\demo-9.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\demos\\demo-9.js",
       "PackagePath": "staticwebassets\\assets\\js\\demos\\demo-9.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\imagesloaded.pkgd.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\imagesloaded.pkgd.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.pkgd.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\jquery.countTo.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\jquery.countTo.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.countTo.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\jquery.countdown.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\jquery.countdown.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.countdown.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\jquery.elevateZoom.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\jquery.elevateZoom.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.elevateZoom.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\jquery.hoverIntent.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\jquery.hoverIntent.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.hoverIntent.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\jquery.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\jquery.plugin.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\jquery.plugin.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.plugin.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\jquery.sticky-kit.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\jquery.sticky-kit.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.sticky-kit.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\jquery.waypoints.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\jquery.waypoints.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.waypoints.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\main.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\nouislider.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\nouislider.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\nouislider.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\superfish.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\superfish.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\superfish.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\js\\wNumb.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\js\\wNumb.js",
       "PackagePath": "staticwebassets\\assets\\js\\wNumb.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\main.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\main.js",
       "PackagePath": "staticwebassets\\assets\\main.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\css\\line-awesome.min.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\css\\line-awesome.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\css\\line-awesome.min.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesome0176.eot",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesome0176.eot",
       "PackagePath": "staticwebassets\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesome0176.eot"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.eot",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.eot",
       "PackagePath": "staticwebassets\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.eot"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.svg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.svg",
       "PackagePath": "staticwebassets\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.svg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.ttf",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.ttf",
       "PackagePath": "staticwebassets\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.ttf"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.woff",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.woff",
       "PackagePath": "staticwebassets\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.woff"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.woff2",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.woff2",
       "PackagePath": "staticwebassets\\assets\\vendor\\line-awesome\\line-awesome\\line-awesome\\fonts\\line-awesomeeb4f.woff2"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\css\\bootstrap.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\assetss\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\css\\custom.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\css\\custom.css",
       "PackagePath": "staticwebassets\\assetss\\css\\custom.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\css\\font-awesome.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\assetss\\css\\font-awesome.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\css\\form.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\css\\form.css",
       "PackagePath": "staticwebassets\\assetss\\css\\form.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\fonts\\FontAwesome.otf",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\assetss\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\assetss\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\assetss\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\assetss\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\assetss\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\assetss\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\fonts\\glyphicons-halflings-regular.svg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\fonts\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\assetss\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\assetss\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\assetss\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\fonts\\glyphicons-halflings-regulard41d.eot",
       "PackagePath": "staticwebassets\\assetss\\fonts\\glyphicons-halflings-regulard41d.eot"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\js\\bootstrap.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assetss\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\js\\custom.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\js\\custom.js",
       "PackagePath": "staticwebassets\\assetss\\js\\custom.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\assetss\\js\\jquery-1.10.2.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\assetss\\js\\jquery-1.10.2.js",
       "PackagePath": "staticwebassets\\assetss\\js\\jquery-1.10.2.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\customer_images\\6206022392199892939.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\6206022392199892939.jpg",
       "PackagePath": "staticwebassets\\customer_images\\6206022392199892939.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\customer_images\\Dp1.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\Dp1.jpg",
       "PackagePath": "staticwebassets\\customer_images\\Dp1.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\customer_images\\Dp2.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\Dp2.jpg",
       "PackagePath": "staticwebassets\\customer_images\\Dp2.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\customer_images\\Screenshot 2025-03-03 111203.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\Screenshot 2025-03-03 111203.png",
       "PackagePath": "staticwebassets\\customer_images\\Screenshot 2025-03-03 111203.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\customer_images\\download.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\customer_images\\download.jpg",
       "PackagePath": "staticwebassets\\customer_images\\download.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\favicon.ico",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\176b53ef-e721-4005-b26a-5a264a7e0eaf.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\176b53ef-e721-4005-b26a-5a264a7e0eaf.jpg",
       "PackagePath": "staticwebassets\\product_images\\176b53ef-e721-4005-b26a-5a264a7e0eaf.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\burger.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\burger.jpg",
       "PackagePath": "staticwebassets\\product_images\\burger.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\cbiri.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\cbiri.jpg",
       "PackagePath": "staticwebassets\\product_images\\cbiri.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\f1.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\f1.png",
       "PackagePath": "staticwebassets\\product_images\\f1.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\f3.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\f3.png",
       "PackagePath": "staticwebassets\\product_images\\f3.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\menu-image1.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image1.jpg",
       "PackagePath": "staticwebassets\\product_images\\menu-image1.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\menu-image2.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image2.jpg",
       "PackagePath": "staticwebassets\\product_images\\menu-image2.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\menu-image3.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\menu-image3.jpg",
       "PackagePath": "staticwebassets\\product_images\\menu-image3.jpg"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\p2.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\p2.png",
       "PackagePath": "staticwebassets\\product_images\\p2.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\p3.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\p3.png",
       "PackagePath": "staticwebassets\\product_images\\p3.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\p4.png",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\p4.png",
       "PackagePath": "staticwebassets\\product_images\\p4.png"
     },
     {
-      "Id": "E:\\Sd_project\\3.2-SD-Project\\wwwroot\\product_images\\p5.jpg",
+      "Id": "D:\\Dotnet project\\QuickBite\\wwwroot\\product_images\\p5.jpg",
       "PackagePath": "staticwebassets\\product_images\\p5.jpg"
     },
     {

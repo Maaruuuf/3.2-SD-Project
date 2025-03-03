@@ -133,7 +133,27 @@ namespace QuickBite.Controllers
             return View(products);
         }
 
-       
+        public IActionResult AddToCart(int prod_id, Cart cart)
+        {
+            string isLogin = HttpContext.Session.GetString("customerSession");
+            if (isLogin != null)
+            {
+                cart.prod_id = prod_id;
+                cart.cust_id = int.Parse(isLogin);
+                cart.product_quantity = 1;
+                cart.cart_status = 0;
+                _context.tbl_Cart.Add(cart);
+                _context.SaveChanges();
+                TempData["message"] = "Product Successfully Added in Cart";
+                return RedirectToAction("fetchAllProducts");
+            }
+            else
+            {
+                return RedirectToAction("customerLogin");
+
+            }
+        }
+        
 
 
 

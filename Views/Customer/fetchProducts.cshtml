@@ -14,10 +14,12 @@
             </div><!-- End .product-action-vertical -->
 
             
-
-            <div class="product-action">
-                <a href="#" class="btn-product btn-cart"><span>add to cart</span></a>
-            </div><!-- End .product-action -->
+                <div class="product-action">
+                    <form method="post" asp-action="AddToCart">
+                        <input type="hidden" name="prod_id" value="@pro.product_id">
+                        <input type="submit" value="Add To Cart" class="btn btn-block btn-product btn-cart">
+                    </form>
+                </div>
         </figure><!-- End .product-media -->
 
         <div class="product-body">
